@@ -24,15 +24,13 @@ One player hosts, everyone else joins by typing in the host's Hamachi address. N
 
 ## Requirements
 
-- Windows (clipboard features use `clip` and PowerShell)
-- A Unity **IL2CPP** game using Netcode for GameObjects with `UnityTransport`
 - [MelonLoader](https://melonwiki.xyz) installed in the game
 - [LogMeIn Hamachi](https://vpn.net) running, with everyone joined to the **same network**
 
 ## Installation
 
 1. Install MelonLoader into the game (run the game once so it generates its folders).
-2. Build the project, or grab `HamachiDirect.dll`.
+2. Grab `HamachiDirect.dll`.
 3. Drop the DLL into the game's `Mods/` folder.
 4. Launch the game. The first-run guide appears on the main menu.
 
@@ -42,7 +40,7 @@ Everyone must have Hamachi **on** and be in the same Hamachi network.
 
 ### Host (one player)
 
-1. On the main menu, press **PLAY ONLINE** (the screen with 3 buttons).
+1. On the main menu, press **PLAY ONLINE**
 2. Press **F9**. You'll enter the lobby and your Hamachi address is copied to the clipboard.
 3. Send that address to your friends in a **private** message.
 
