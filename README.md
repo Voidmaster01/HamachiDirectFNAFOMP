@@ -74,7 +74,7 @@ Settings live in `UserData/MelonPreferences.cfg` under the `HamachiDirect` categ
 | `Port` | `7777` | Game UDP port. A small probe listener uses `Port + 1`. |
 | `VpnPrefix` | `25.` | Address prefix used to find the Hamachi adapter and validate the host IP. |
 | `HostIp` | *(empty)* | Host's Hamachi address (set via F8). Joiners only. |
-| `MaxPlayers` | `4` | Extra players beyond this are disconnected. |
+| `MaxPlayers` | `5` | Extra players beyond this are disconnected. |
 | `SkipGameApproval` | `true` | Turns off Netcode connection approval for direct play, since the game's approval handler isn't set up in this mode. Restored when you stop. |
 | `LockOnlineButtons` | `true` | Greys out the three cloud-matchmaking buttons. |
 
