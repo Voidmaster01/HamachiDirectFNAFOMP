@@ -30,6 +30,7 @@ One player hosts, everyone else joins by typing in the host's Hamachi address. N
 ## Installation
 
 1. Install MelonLoader into the game (run the game once so it generates its folders).
+2. Install Hamachi and create a tunnel to your friends (free up to 5)
 2. Grab `HamachiDirect.dll`.
 3. Drop the DLL into the game's `Mods/` folder.
 4. Launch the game. The first-run guide appears on the main menu.
