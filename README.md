@@ -8,7 +8,7 @@ One player hosts, everyone else joins by typing in the host's Hamachi address. N
 
 > Parts of this project (such as the UI elements) were made with AI. Everything was reviewed by a systems engineer for safety.
 
-**Version:** 0.5.0  **Author:** voidcrew
+**Version:** 2.0.0  **Author:** voidcrew
 
 ---
 
