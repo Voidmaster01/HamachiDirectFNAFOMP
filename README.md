@@ -1,5 +1,7 @@
 # HamachiDirect
 
+# WARNING: BEFORE PLAYING, HAMACHI IS A DIRECT TUNNEL TO YOUR NETWORK, WHICH POSES SECURITY ISSUES. MAKE SURE YOU CAN TRUST THE USER YOU ARE GOING TO PLAY WITH. DO NOT USE THIS WITH STRANGERS
+
 # This was made using AI, Claude.ai but we made sure to check all code within it. If you want to yell at us make an issue post
 
 A [MelonLoader](https://melonwiki.xyz) mod that lets you play a Unity Netcode game privately over a **Hamachi** (VPN) network, skipping the game's online matchmaking servers.
