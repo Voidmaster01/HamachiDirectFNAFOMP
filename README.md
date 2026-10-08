@@ -1,5 +1,7 @@
 # HamachiDirect
 
+# this was made using AI, Claude.ai but we made sure to check all code within it. If you want to yell at us make an issue post
+
 A [MelonLoader](https://melonwiki.xyz) mod that lets you play a Unity Netcode game privately over a **Hamachi** (VPN) network, skipping the game's online matchmaking servers.
 
 One player hosts, everyone else joins by typing in the host's Hamachi address. No cloud lobby, no relay.
